@@ -4,3 +4,4 @@ dependencies:
   - textract
   - nltk
   - voila
+  - pdftotext
